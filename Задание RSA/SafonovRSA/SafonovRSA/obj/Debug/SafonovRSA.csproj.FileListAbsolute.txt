@@ -1,0 +1,18 @@
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.exe.config
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.exe
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.pdb
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.csprojAssemblyReference.cache
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.Form1.resources
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.Properties.Resources.resources
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.csproj.GenerateResource.cache
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.exe
+C:\Users\fredy\source\repos\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.pdb
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.exe.config
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.exe
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.pdb
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.csprojAssemblyReference.cache
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.Form1.resources
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.Properties.Resources.resources
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.csproj.GenerateResource.cache
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.exe
+C:\Users\fredy\OneDrive\Рабочий стол\ПРАКТИКА\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.pdb

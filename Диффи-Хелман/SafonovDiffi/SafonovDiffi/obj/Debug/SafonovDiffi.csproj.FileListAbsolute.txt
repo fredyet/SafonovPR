@@ -1,0 +1,9 @@
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\bin\Debug\SafonovDiffi.exe.config
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\bin\Debug\SafonovDiffi.exe
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\bin\Debug\SafonovDiffi.pdb
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.csprojAssemblyReference.cache
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.Form1.resources
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.Properties.Resources.resources
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.csproj.GenerateResource.cache
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.exe
+C:\Users\fredy\source\repos\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.pdb
